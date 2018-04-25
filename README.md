@@ -1,7 +1,8 @@
 OrientationJ
 ============
 
-ImageJ's plugin for directional analysis in images
+*ImageJ's plugin for directional analysis in images*
+
 _Written by Daniel Sage at the Biomedical Image Group (BIG), EPFL, Switzerland_
 
 ## Outline
